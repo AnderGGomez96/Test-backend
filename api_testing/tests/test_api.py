@@ -3,7 +3,6 @@ from jsonschema import validate, exceptions
 import requests
 import pytest
 import json
-import os
 
 
 @pytest.fixture
